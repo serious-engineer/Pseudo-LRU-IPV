@@ -1,4 +1,4 @@
-# README for Pseudo-LRU Cache Replacement Policy Implementation in gem5
+# Pseudo-LRU Cache Replacement Policy Implementation in gem5
 
 ## Project Overview
 This project involves implementing a **Pseudo-Least Recently Used (Pseudo-LRU)** cache replacement policy in the **gem5 simulator** as part of coursework or personal research in **computer architecture**. The implementation is focused on enhancing the cache management system in gem5 by introducing an efficient Pseudo-LRU policy that approximates LRU while reducing the complexity associated with it.
@@ -17,7 +17,7 @@ This project involves implementing a **Pseudo-Least Recently Used (Pseudo-LRU)**
 1. **gem5 Simulator**:
    - Clone the gem5 repository:  
      ```bash
-     git clone https://gem5.googlesource.com/public/gem5
+     git clone https://github.com/serious-engineer/Pseudo-LRU-IPV
      ```
    - Build gem5 with the required architecture (e.g., `X86`):  
      ```bash
