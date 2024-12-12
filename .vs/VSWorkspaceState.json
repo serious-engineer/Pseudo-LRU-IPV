@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\mem",
+    "\\src\\mem\\cache",
+    "\\src\\mem\\cache\\replacement_policies"
+  ],
+  "PreviewInSolutionExplorer": false
+}
